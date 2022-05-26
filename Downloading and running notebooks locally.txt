@@ -1,0 +1,2 @@
+To run a notebook on your local machine, go to the notebook and click "raw", then save it as .ipynb notebook locally and run it.
+
